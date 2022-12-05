@@ -1,0 +1,9 @@
+README.md
+setup.py
+colvar/__init__.py
+colvar/utilities.py
+colvar.egg-info/PKG-INFO
+colvar.egg-info/SOURCES.txt
+colvar.egg-info/dependency_links.txt
+colvar.egg-info/requires.txt
+colvar.egg-info/top_level.txt
